@@ -1,0 +1,10 @@
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\bin\Release\netcoreapp3.1\Module_Library.deps.json
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\bin\Release\netcoreapp3.1\Module_Library.dll
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\bin\Release\netcoreapp3.1\Module_Library.pdb
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\obj\Release\netcoreapp3.1\Module_Library.csproj.AssemblyReference.cache
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\obj\Release\netcoreapp3.1\Module_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\obj\Release\netcoreapp3.1\Module_Library.AssemblyInfoInputs.cache
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\obj\Release\netcoreapp3.1\Module_Library.AssemblyInfo.cs
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\obj\Release\netcoreapp3.1\Module_Library.csproj.CoreCompileInputs.cache
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\obj\Release\netcoreapp3.1\Module_Library.dll
+C:\Users\benma\source\repos\Time_Management_App\Module_Library\obj\Release\netcoreapp3.1\Module_Library.pdb
